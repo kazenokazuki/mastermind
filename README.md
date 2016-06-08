@@ -1,1 +1,2 @@
 # mastermind
+no ai yet
